@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\APDTB\Desktop\BANK_BE\env"
+VIRTUAL_ENV="C:\Users\2020\Desktop\Proyectos\Calculadora\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

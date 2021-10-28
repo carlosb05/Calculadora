@@ -101,10 +101,10 @@ WSGI_APPLICATION = 'calculatorProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'df458k9ek4reog',
-        'USER': 'lbtauibndbpugg',
-        'PASSWORD': 'da0cb5884eed6296e41cd1ba21dc3025b78b75e3ad666ba8d06cbb3754aab270',
-        'HOST': 'ec2-3-218-47-9.compute-1.amazonaws.com',
+        'NAME': 'd14elib425st2j',
+        'USER': 'uebqlwksmpojml',
+        'PASSWORD': 'd86b8841a5a721191fc5b73bae7fff700f9840d84f66843a37b2a6416d4d6d23',
+        'HOST': 'ec2-52-200-68-5.compute-1.amazonaws.com',
         'PORT': '5432',
 
     }

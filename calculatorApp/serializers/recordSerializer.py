@@ -1,4 +1,4 @@
-from authApp.models.record import Record
+from calculatorApp.models.record import Record
 from rest_framework import serializers
 
 class RecordSerializer(serializers.ModelSerializer):

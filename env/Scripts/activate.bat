@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\APDTB\Desktop\BANK_BE\env
+set VIRTUAL_ENV=C:\Users\2020\Desktop\Proyectos\Calculadora\env
 
 if not defined PROMPT set PROMPT=$P$G
 
